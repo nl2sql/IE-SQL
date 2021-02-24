@@ -12,6 +12,6 @@ Sorry for delays in uploading the code for the paper.
 
 We have been working very hard on the permission to open-source the code, as it is legally our employer's IP.  Unfortunately, there is no concrete time-line yet for the procedure. But we are still trying.   
 
-As for now, communications about technical details of the paper is welcomed. Just drop an email to manlp@gmail.com
+As for now, communications about technical details of the paper is welcomed. Just drop an email to maclnlp@gmail.com
 
 Thank you for your understanding!
